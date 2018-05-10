@@ -1,3 +1,5 @@
+from functions import change_basis, palindrome
+
 def main():
 	#function to obtain the smallest base in which the number is palindrome from 1 to n 
 	n_input=input('Enter the last number to analize : ')
